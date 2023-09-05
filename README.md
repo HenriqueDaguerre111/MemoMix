@@ -18,6 +18,8 @@ Memomix is a React-based software designed to help you organize your daily routi
 
 Track the development progress of Memomix:
 
+![Overall Progress](https://progress-bar.dev/25/)
+
 ### 📌 Backlog
 
 - [ ] Complete the website development
